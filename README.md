@@ -1,2 +1,2 @@
 # Colors-Website-
-Colors website implementing HTML, CSS, Javascript displaying a basic website template 
+Colors website implementing HTML, CSS, Javascript to display a basic website template 
